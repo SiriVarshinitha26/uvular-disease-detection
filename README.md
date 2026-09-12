@@ -111,6 +111,12 @@ The Grad-CAM process:
 This helps provide **visual interpretability** for the deep learning model.
 
 
+## ** Architecture Diagram
+
+<img width="1536" height="1024" alt="uvula_mobilenet_architecture" src="https://github.com/user-attachments/assets/244debdb-b3b1-4fae-80b4-a77db97b6310" />
+
+
+
 ## **Project Workflow**
 
 ```text
@@ -135,7 +141,3 @@ Model Evaluation
 Disease Classification
    ↓
 Grad-CAM Visualization
-
-## ** Architecture diagram**
-
-<img width="1536" height="1024" alt="uvula_mobilenet_architecture" src="https://github.com/user-attachments/assets/b39a6f80-359c-4e4e-b6e8-7a8bfafdd15b" />
