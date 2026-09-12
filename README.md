@@ -113,7 +113,7 @@ This helps provide **visual interpretability** for the deep learning model.
 
 ## ** Architecture Diagram
 
-<img width="1536" height="1024" alt="uvula_mobilenet_architecture" src="https://github.com/user-attachments/assets/244debdb-b3b1-4fae-80b4-a77db97b6310" />
+<img width="200" height="100" alt="uvula_mobilenet_architecture" src="https://github.com/user-attachments/assets/244debdb-b3b1-4fae-80b4-a77db97b6310" />
 
 
 
