@@ -110,7 +110,6 @@ The Grad-CAM process:
 
 This helps provide **visual interpretability** for the deep learning model.
 
-The notebook generates a **Grad-CAM heatmap** for an input uvular disease image. :contentReference[oaicite:1]{index=1}
 
 ## **Project Workflow**
 
@@ -136,3 +135,7 @@ Model Evaluation
 Disease Classification
    ↓
 Grad-CAM Visualization
+
+## ** Architecture diagram**
+
+<img width="1536" height="1024" alt="uvula_mobilenet_architecture" src="https://github.com/user-attachments/assets/b39a6f80-359c-4e4e-b6e8-7a8bfafdd15b" />
